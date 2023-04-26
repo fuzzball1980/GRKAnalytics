@@ -9,7 +9,7 @@
   },
   "social_media_url": "https://twitter.com/levigroker",
   "source": {
-    "git": "https://github.com/levigroker/GRKAnalytics.git",
+    "git": "https://github.com/fuzzball1980/GRKAnalytics.git",
     "tag": "2.0.1"
   },
   "platforms": {
